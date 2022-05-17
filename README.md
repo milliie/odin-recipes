@@ -1,4 +1,7 @@
 # odin-recipes
-<p> First project :) - May 7, 2022 </p>
-<p> Project: Recipes </p>
-<p> **This project will allow me to demonstrate skills I've learned through the "HTML Foundations" lessons of The Odin Project. Using elements and tags, setting up HTML Boilerplate, working with text, lists, links and images, and effective commit messages. </p>
+<p> May 7, 2022 <p>
+<ul> First project :) 
+<li> Project: Recipes </li>
+<li> **This project will allow me to demonstrate skills I've learned through the "HTML Foundations" lessons of The Odin Project. Using elements and tags, setting up HTML Boilerplate, working with text, lists, links and images, and effective commit messages. </li> </ul>
+<p> May 16, 2022 <p>
+<p> - as per CSS Foundations, starting to incorporate CSS on webpages :) </p>
