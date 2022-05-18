@@ -8,3 +8,7 @@
 <ul>
 <li> As per 1. CSS Foundations, starting to incorporate CSS on webpages! :) </li>
 </ul>
+<p> May 17, 2022 </p>
+<ul>
+<li> Continue adding and editing CSS  </li>
+</ul>
